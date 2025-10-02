@@ -24,9 +24,11 @@ Tailwind CSS
 ⚡ Getting Started
 
 Clone the repo and run locally:
+```bash
 git clone https://github.com/tesloianu/qr-code-generator.git
 npm install
 npm run dev
+```
 
 Open 👉 http://localhost:8000
 
