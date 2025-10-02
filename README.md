@@ -3,6 +3,8 @@
 **A modern web app to generate never-expiring QR codes with a clean UI.**  
 Built with **Next.js + React + Tailwind CSS**
 
+![QR Code](https://i.imgur.com/XYBsVuy.png)
+
 ---
 
 ## ✨ Features
