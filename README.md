@@ -34,21 +34,22 @@ npm run dev
 ```
 Open 👉 http://localhost:8000
 
+---
+
 📖 Usage
-```html
-<ol>
-<li>Enter text, URL, or Wi-Fi credentials</li>
-<li>Customize style (size, error correction)</li>
-<li>Generate QR code instantly</li>
-<li>Download as PNG</li>
-</ol>
-```
+
+- Enter text, URL, or Wi-Fi credentials
+- Customize style (size, error correction)
+- Generate QR code instantly
+- Download as PNG
+
+---
+
 🤝 Contributing
-```html
-<ol>
-<li>Contributions are welcome!</li>
-<li>Fork the repo</li>
-<li>Create a new branch feat/your-feature</li>
-<li>Submit a Pull Request </li>
-</ol>
-```
+
+- Contributions are welcome!
+- Fork the repo
+- Create a new branch feat/your-feature
+- Submit a Pull Request 
+
+
